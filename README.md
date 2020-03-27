@@ -4,7 +4,7 @@ Webpage from Be The Hero, a project developed during Omnistack 11.0 week.
 
 ## Backend
 
-The backend of this page can be found in https://github.com/gmendes0/bethehero
+The backend of this page can be found in https://github.com/gmendes0/bethehero-api
 
 ## Techs
 
